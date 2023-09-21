@@ -177,12 +177,18 @@ body {
     }
 
     .resume__pdf-container {
-        width: 50%; 
+        width: 1p0%; 
         margin-bottom: 1rem; 
     }
 
     .resume__download-container {
         width: 100%; 
+    }
+
+    .resume__iframe {
+        width: 500%;
+        height: 100vh;
+        border: none;
     }
 }
 
