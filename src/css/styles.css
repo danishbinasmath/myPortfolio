@@ -152,14 +152,17 @@ body {
     justify-content: center;
 }
 
-.resume__download-btn {
-    background-color: #6b5b95;
-    color: white;
+.resume__download-btn  {
+    background-color: rgb(166, 1, 255);
+    color: lavender;
     padding: 1rem 2rem;
     border-radius: 10px;
     text-decoration: none;
     font-size: 1.2rem;
+    margin: 30px;
+    box-shadow: rgb(255, 0, 221) 0px 7px 29px 0px;
 }
+
 
 .resume__iframe {
     width: 100%;
@@ -174,7 +177,7 @@ body {
     }
 
     .resume__pdf-container {
-        width: 100%; 
+        width: 50%; 
         margin-bottom: 1rem; 
     }
 
