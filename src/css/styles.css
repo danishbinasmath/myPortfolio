@@ -184,12 +184,6 @@ body {
     .resume__download-container {
         width: 100%; 
     }
-
-    .resume__iframe {
-        width: 100%;
-        height: auto;
-        border: none;
-    }
     
 }
 
